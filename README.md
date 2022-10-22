@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zperlman
-- 👀 I’m interested in ... Blockchain Innovation
-- 🌱 I’m currently learning ...Blockchain Development
-- 💞️ I’m looking to collaborate on ...Anything Blockchain
+- 👀 I’m interested in Web 3.0 | Internet Freedom | Blockchain | Cloud Computing | Virtualization | Cosmic Consciousness
+- 🌱 I’m currently learning more about cloud engineering and dev-ops.
+- 💞️ I’m looking to collaborate on anything that can help the evolution of our species.
 - 📫 How to reach me ... LinkedIn.com/in/zperlman
 
 <!---

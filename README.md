@@ -5,6 +5,7 @@
 - 😐 How NOT to reach me: LinkedIn.com/in/zperlman 
 - 📫 Use This: zachperlman@protonmail.com 
 - 📓 My 'better' ideas: zachperlman.substack.com
+- LXMF ADDRESS: 00b6a1fdbc5b53afac5f9b056349f7cc
 
 <!---
 zperlman/zperlman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
